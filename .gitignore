@@ -4,4 +4,4 @@ bazel-out
 bazel-projects
 bazel-testlogs
 *.dSYM
-build
+/build
