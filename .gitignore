@@ -5,3 +5,4 @@ bazel-projects
 bazel-testlogs
 *.dSYM
 /build
+MODULE.bazel.lock
