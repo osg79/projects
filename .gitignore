@@ -6,3 +6,4 @@ bazel-testlogs
 *.dSYM
 /build
 MODULE.bazel.lock
+prog
