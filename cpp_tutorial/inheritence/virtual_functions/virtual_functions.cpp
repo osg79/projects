@@ -39,6 +39,7 @@ public:
         std::cout << "Car Constructor called" << std::endl;
     }
 
+    // Virtual is required to call the correct destructors during inheritence based polymorphism
     virtual ~Car()
     {
         std::cout << "Car Destructor called" << std::endl;
