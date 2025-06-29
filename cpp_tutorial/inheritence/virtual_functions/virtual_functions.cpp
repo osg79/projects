@@ -39,7 +39,7 @@ public:
         std::cout << "Car Constructor called" << std::endl;
     }
 
-    ~Car()
+    virtual ~Car()
     {
         std::cout << "Car Destructor called" << std::endl;
     }
